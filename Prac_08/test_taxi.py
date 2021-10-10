@@ -3,7 +3,7 @@ CP1404 Practical
 testing taxi
 """
 
-from prac_08.taxi import Taxi
+from Prac_08.taxi import Taxi
 
 
 def main():
